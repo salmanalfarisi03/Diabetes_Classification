@@ -72,3 +72,14 @@ git clone https://github.com/salmanafaris03/Diabetes_Classification.git
 cd Diabetes_Classification
 pip install -r requirements.txt
 jupyter notebook
+
+Diabetes_Classification/
+│
+├── data/
+│   └── diabetes.csv
+│
+├── notebook/
+│   └── Program_Klasifikasi.ipynb
+│
+├── README.md
+└── requirements.txt

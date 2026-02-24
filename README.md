@@ -1,4 +1,4 @@
-# 🩺 Diabetes Early Stage Classification
+#  Diabetes Early Stage Classification
 
 ## 📖 Project Overview
 Project ini bertujuan untuk melakukan klasifikasi penyakit Diabetes tahap awal berdasarkan gejala klinis pasien menggunakan Machine Learning.
